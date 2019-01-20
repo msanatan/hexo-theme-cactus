@@ -16,7 +16,8 @@ direction: ltr
 nav:
   Home: /
   About: /about/
-  Writing: /archives/
+  Archives: /archives/
+  Other Writing: /other-writing/
   Search: /search/
   Contact: /contact/
 
@@ -136,7 +137,7 @@ disqus:
 # Fill in your Google Analytics tracking ID to enable Google Analytics.
 google_analytics:
   enabled: true
-  id: UA-84079011-1
+  id: #UA-84079011-1
 
 # Fill in your Baidu Analytics tracking ID to enable Baidu Analytics.
 baidu_analytics:
